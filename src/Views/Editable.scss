@@ -1,0 +1,22 @@
+@import '~antd/dist/antd.css';
+.ant-table-thead > tr > th {
+  background: #757575;
+  font-weight: bold;
+}
+.ant-table {
+  color: white;
+}
+.no-hover tr:hover td {
+  background: transparent !important;
+  cursor: pointer;
+}
+
+input {
+  color: black;
+}
+select {
+  color: black;
+}
+button {
+  color: black;
+}

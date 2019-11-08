@@ -1,0 +1,17 @@
+input.table-header {
+  background-color: transparent;
+  font-size: 4rem;
+
+  display: block;
+  color: inherit;
+
+  border: none;
+
+  width: 100%;
+
+  &:active,
+  &:focus {
+    border: none;
+    outline: none;
+  }
+}

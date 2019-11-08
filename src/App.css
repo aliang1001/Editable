@@ -1,0 +1,20 @@
+#app {
+  display: flex;
+  height: 100vh;
+}
+
+main {
+  width: calc(100vw - 20rem);
+  height: 100vh;
+  box-sizing: border-box;
+
+  background-color: rgb(47, 49, 60);
+  color: white;
+  padding: 2rem;
+
+  overflow-y: scroll;
+}
+
+table {
+  margin: auto;
+}
